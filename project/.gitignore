@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# SQLite database
+library.db
+*.db-journal
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
